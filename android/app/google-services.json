@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "94044894781",
+    "firebase_url": "https://atik-chat-10af0.firebaseio.com",
+    "project_id": "atik-chat-10af0",
+    "storage_bucket": "atik-chat-10af0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:94044894781:android:815a36102ac6e54f47dc54",
+        "android_client_info": {
+          "package_name": "co.atik666.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "94044894781-are7p09puqbkndannubjavqmb1s1qncj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKTvl7H7HYpE0zJIXlERwhw2SHEPfM2to"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "94044894781-are7p09puqbkndannubjavqmb1s1qncj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
